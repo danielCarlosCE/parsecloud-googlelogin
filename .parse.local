@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "GoogleAuth": {
+      "applicationId": "ZL4pgVBDUVAEM4SZFK4Cp1w0TbvCFGMH3lW1x7HW"
+    },
+    "_default": {
+      "link": "GoogleAuth"
+    }
+  }
+}
